@@ -1,5 +1,3 @@
-0 Brotdose
-1 Hose
-2 T-Shirt
-3 Pullover
-4 Trinkflasche
+0 Class 1
+1 Class 2
+2 Class 3
